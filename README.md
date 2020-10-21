@@ -11,7 +11,7 @@ Pensamento analítico para resolver problemas com base em modelos matemáticos, 
 
 Técnico em eletrônica formado pelo Instituto Federal de Alagoas (IFAL) e engenheiro eletrônico formado pela Universidade Federal de Pernambuco (UFPE).
 
-**Conhecimentos em:** VBA, Python, Otimização de processos, modelos matematicos, análise gráfica, eletrônica analógica.
+**Conhecimentos em:** VBA, Python, Otimização de processos, modelos matematicos, análise técnica, eletrônica analógica.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/wagner-cabral-74a89418a/)
