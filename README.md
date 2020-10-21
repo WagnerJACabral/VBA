@@ -7,7 +7,7 @@
 # Wagner Cabral
 <sub>*Engenheiro Eletrônico*</sub>
 
-Pensamento analítico para resolver problemas com base em modelos matemáticos, e dados estatísticos. Experiência prática em análise técnica com ações da Bovespa e criptomoedas. Sempre aberto a aprender novas ferramentas para otimização de resultados.
+Pensamento analítico para resolver problemas com base em modelos matemáticos, e dados estatísticos. Experiência prática em análise técnica com ações na B3 e criptomoedas. Sempre aberto a aprender novas ferramentas para otimização de resultados.
 
 Técnico em eletrônica formado pelo Instituto Federal de Alagoas (IFAL) e engenheiro eletrônico formado pela Universidade Federal de Pernambuco (UFPE).
 
