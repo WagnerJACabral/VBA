@@ -21,5 +21,6 @@ Técnico em eletrônica formado pelo Instituto Federal de Alagoas (IFAL) e engen
 Alguns artigos sobre os meus trabalhos:
 
 * **Otimização de linha de produção de quadros de distribuição** https://bit.ly/3o5yilP
+* **Otimização de interface para maior eficiência de ações do usuário** https://bit.ly/2UeKCTb
 
 ---
